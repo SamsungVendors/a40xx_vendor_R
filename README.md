@@ -1,1 +1,7 @@
-# a40xx_vendor_R
+```
+AP : A405FNXXU3CUC2
+CSC : A405FNOXM3CUC2 (DBT)
+Android : R(Android 11)
+Build Date : 1615300143
+```
+
